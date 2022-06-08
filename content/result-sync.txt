@@ -1,0 +1,1 @@
+Here is the result: first.txt, second text fileHere is the result: first.txt, second text fileHere is the result: Hello iam in first.txt, second text fileHere is the result: Hello iam in first.txt, \nHello iam second text fileHere is the result: Hello iam in first.txt, Hello iam second text fileHere is the result: Hello i am in first.txt., Hello i am second text file. 
